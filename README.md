@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay0908&label=Profile%20views&color=0e75b6&style=flat" alt="abhay0908" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development, DSA**
 
-- 💬 Ask me about **C,HTML**
+- 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **singhabhay9000@gmail.com**
 - <p align="left"> <a href="https://twitter.com/a_bhay_singh" target="blank"><img src="https://img.shields.io/twitter/follow/a_bhay_singh?logo=twitter&style=for-the-badge" alt="a_bhay_singh" /></a> </p>
