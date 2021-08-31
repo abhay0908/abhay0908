@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay0908&label=Profile%20views&color=0e75b6&style=flat" alt="abhay0908" /> </p>
 
-- 🌱 I’m currently learning: **DSA**
+- 🌱 I’m currently learning: **ML/AI**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS,C,C++**
 
 - 📫 How to reach me **singhabhay9000@gmail.com**
 
