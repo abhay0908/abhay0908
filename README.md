@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kunwar Abhay Singh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kunwar Abhay Singh </h1>
 <h3 align="center">The study of mathematical sciences has intrigued me for many years. The decision to study A levels in both maths and physics stemmed from a high interest level and strong aptitude in both subject areas...</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay0908&label=Profile%20views&color=0e75b6&style=flat" alt="abhay0908" /> </p>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 - 🌱 I’m currently learning: **DSA**
 
@@ -10,8 +14,8 @@
 - 📫 How to reach me **singhabhay9000@gmail.com**
 
 
-- ⚡ Fun fact **I love movies.Except maybe horror movies.😬**
--<hr>
+- ⚡ Fun fact I love movies.Except maybe horror movies.😬
+<hr>
  Listening🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pbd1c9ykg115346kpsswxrslh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=pbd1c9ykg115346kpsswxrslh&redirect=true)
