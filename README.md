@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **singhabhay9000@gmail.com**
 
-
 - ⚡ Fun fact I love movies.Except maybe horror movies.😬
+
 <hr>
  Listening🎧
 
