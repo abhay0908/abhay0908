@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **DSA**
 
-- 💬 Ask me about **HTML, CSS,C,C++**
+- 💬 Ask me about **HTML, CSS,C,C++,Python**
 
 - 📫 How to reach me **singhabhay9000@gmail.com**
 
