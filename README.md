@@ -7,11 +7,11 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-- 🌱 I’m currently learning: **DSA and DS**
+- 🌱 I’m currently learning: **DSA**
 
 - 💬 Ask me about **HTML, CSS,C,C++,Python**
 
-- 📫 How to reach me **singhabhay9000@gmail.com**
+- 📫 How to reach me **kunwar.abhay.singh09@gmail.com**
 
 - ⚡ Fun fact I love movies.Except maybe horror movies.😬
 
