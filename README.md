@@ -52,6 +52,8 @@
 
 - 🎓 [**Student Management System**](https://github.com/abhay0908/student-management-django) — Full Django CRUD + Auth project.
 - 📘 [**E-learning Platform**](https://github.com/abhay0908/elearning-platform-django) — Course creation, enrollments, and dashboard (WIP).
+- 🧠 [**Eyesight Saviour – Retinopathy Detection**](https://github.com/abhay0908/-Eyesight-Saviour-Modern-Approaches-to-Retinopathy-Detection) — Deep learning-based project for detecting diabetic retinopathy.
+- 🌧️ [**Rainfall Prediction Using ML**](https://github.com/abhay0908/Rainfall-Prediction-Accuracy-Enhancement-Using-Machine-Learning) — Enhancing rainfall prediction accuracy using ML algorithms.
 
 ---
 
